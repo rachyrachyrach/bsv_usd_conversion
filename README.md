@@ -11,3 +11,10 @@ The code in a django react:
 ```
 src/utils/functions.js
 ```
+
+
+To connect to Twetch wallet: 
+
+```
+frontend under src/services/twetchService.js
+```
